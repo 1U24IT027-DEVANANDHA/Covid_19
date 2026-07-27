@@ -1,2 +1,2 @@
 # Covid_19
-Uses deep learning to detect COVID-19 quickly and accurately from X-rays.
+Fast and accurate COVID-19 diagnosis using AI.
